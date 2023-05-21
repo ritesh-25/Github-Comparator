@@ -1,0 +1,15 @@
+{
+  "name": "githubfinder-master",
+  "version": "1.0.0",
+  "description": "Github finder is a Fetch Api project where we can easily find a github user information by simply typing their username. This application shows user profile, Public repositories, Followers, Following, Company, Website/Blog, Location and member since date. Also it shows latest 5 repository.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
